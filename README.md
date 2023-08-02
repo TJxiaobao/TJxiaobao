@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is TJxiaobao!
 
-<img align="right" alt="img" src="https://github.com/gongna-au/gongna-au/blob/main/Image2.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/TJxiaobao/TJxiaobao/blob/main/test.png" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TJxiaobao&show_icons=true&theme=dracula&hide_border=true)" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TJxiaobao)
