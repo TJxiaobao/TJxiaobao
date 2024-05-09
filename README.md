@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TJxiaobao)
 
-Welcome to my Github page! I am Xiaobao and I am studying software engineering at Central China Normal University !  
+Welcome to my Github page! I am Xiaobao and I am studying software engineering at Central China Henan Normal University !  
 
 
 
