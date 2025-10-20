@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is TJxiaobao!
 
-<img align="right" alt="img" src="https://github.com/TJxiaobao/TJxiaobao/blob/main/test.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/TJxiaobao/TJxiaobao/blob/main/image.png" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TJxiaobao&show_icons=true&theme=dracula&hide_border=true)" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TJxiaobao)
@@ -11,8 +11,7 @@ Welcome to my Github page! I am Xiaobao and I am studying software engineering a
 
 
 #### 🚀 Things I am currently working on: 
-- Finish my Computer Engineering Bachelor's degree  
-- Sprint to higher degree
+- Graduation and job hunting!
 - [My Study Notes](https://www.yuque.com/tiejiaxiaobao-tlmcm)
 
 #### :muscle: Things I am challenging myself with:
